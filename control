@@ -1,0 +1,10 @@
+Package: com.naken.noforceupgrade4uber
+Name: NoForceUpgrade4Uber
+Depends: mobilesubstrate, firmware (< 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable force upgrade in earlier Uber versions (<= 2.47.0)
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
+Homepage: http://iosre.com
